@@ -858,10 +858,12 @@ position: relative;
 }
 .Team-info .Team-job{
     margin-bottom: 20px;
+    text-transform: capitalize;
 }
 
 .top-to-bottom-affectt{
     position: relative;
+
 }
 
 .top-to-bottom-affectt::after{
